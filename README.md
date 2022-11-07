@@ -19,7 +19,7 @@ https://hub.docker.com/repository/docker/bra1let/somepy
 *docker push логін_докерхаб/назва:версія*
 
 # Команда запуску контейнера:
-*docker run -p 80:8080 --memory="400MiB" --cpus=0.5 --name lab1 --rm -d bra1let/somepy:0.1 *
+*docker run -p 80:8080 --memory="400MiB" --cpus=0.5 --name lab1 --rm -d bra1let/somepy:0.1*
 
 # Результат виконання лабораторної роботи:
 ![image](https://user-images.githubusercontent.com/98806855/200292781-67aa95c8-80c1-46da-804b-896433710c8f.png)
